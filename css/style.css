@@ -1,0 +1,10 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+#video {
+    width: 100%;
+    max-width: 560px;
+}
